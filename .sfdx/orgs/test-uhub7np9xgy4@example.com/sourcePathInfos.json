@@ -73,9 +73,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestResourceCreateAccount.cls",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestResourceCreateAccount.cls",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestResourceCreateAccount.cls",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestResourceCreateAccount.cls",
             "isDirectory": false,
             "size": 4778,
             "modifiedTime": 1548097316492,
@@ -88,9 +88,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestResourceCreateAccount.cls-meta.xml",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestResourceCreateAccount.cls-meta.xml",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestResourceCreateAccount.cls-meta.xml",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestResourceCreateAccount.cls-meta.xml",
             "isDirectory": false,
             "size": 203,
             "modifiedTime": 1548086647637,
@@ -118,9 +118,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\ContactRates.cls",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\ContactRates.cls",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\ContactRates.cls",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\ContactRates.cls",
             "isDirectory": false,
             "size": 3160,
             "modifiedTime": 1548105511742,
@@ -132,9 +132,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\ContactRates.cls-meta.xml",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\ContactRates.cls-meta.xml",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\ContactRates.cls-meta.xml",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\ContactRates.cls-meta.xml",
             "isDirectory": false,
             "size": 190,
             "modifiedTime": 1548098968739,
@@ -147,9 +147,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestCallout.cls",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCallout.cls",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestCallout.cls",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCallout.cls",
             "isDirectory": false,
             "size": 2925,
             "modifiedTime": 1548098115949,
@@ -162,9 +162,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestCallout.cls-meta.xml",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCallout.cls-meta.xml",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestCallout.cls-meta.xml",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCallout.cls-meta.xml",
             "isDirectory": false,
             "size": 189,
             "modifiedTime": 1548097826032,
@@ -177,9 +177,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestCalloutTest.cls",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCalloutTest.cls",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestCalloutTest.cls",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCalloutTest.cls",
             "isDirectory": false,
             "size": 6077,
             "modifiedTime": 1548098114467,
@@ -192,9 +192,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestCalloutTest.cls-meta.xml",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCalloutTest.cls-meta.xml",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestCalloutTest.cls-meta.xml",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCalloutTest.cls-meta.xml",
             "isDirectory": false,
             "size": 193,
             "modifiedTime": 1548097886264,
@@ -207,9 +207,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestClient.cls",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClient.cls",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestClient.cls",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClient.cls",
             "isDirectory": false,
             "size": 13108,
             "modifiedTime": 1548098113061,
@@ -222,9 +222,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestClient.cls-meta.xml",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClient.cls-meta.xml",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestClient.cls-meta.xml",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClient.cls-meta.xml",
             "isDirectory": false,
             "size": 188,
             "modifiedTime": 1548097960055,
@@ -237,9 +237,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestClientTest.cls",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClientTest.cls",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestClientTest.cls",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClientTest.cls",
             "isDirectory": false,
             "size": 25489,
             "modifiedTime": 1548098111481,
@@ -252,9 +252,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestClientTest.cls-meta.xml",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClientTest.cls-meta.xml",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestClientTest.cls-meta.xml",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClientTest.cls-meta.xml",
             "isDirectory": false,
             "size": 192,
             "modifiedTime": 1548097999718,
@@ -267,9 +267,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestLogBuilder.cls",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilder.cls",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestLogBuilder.cls",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilder.cls",
             "isDirectory": false,
             "size": 7838,
             "modifiedTime": 1548098109458,
@@ -282,9 +282,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestLogBuilder.cls-meta.xml",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilder.cls-meta.xml",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestLogBuilder.cls-meta.xml",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilder.cls-meta.xml",
             "isDirectory": false,
             "size": 192,
             "modifiedTime": 1548098044462,
@@ -297,9 +297,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestLogBuilderTest.cls",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilderTest.cls",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestLogBuilderTest.cls",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilderTest.cls",
             "isDirectory": false,
             "size": 6677,
             "modifiedTime": 1548098106538,
@@ -312,9 +312,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestLogBuilderTest.cls-meta.xml",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilderTest.cls-meta.xml",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestLogBuilderTest.cls-meta.xml",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilderTest.cls-meta.xml",
             "isDirectory": false,
             "size": 196,
             "modifiedTime": 1548098096009,
@@ -327,9 +327,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestMock.cls",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestMock.cls",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestMock.cls",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestMock.cls",
             "isDirectory": false,
             "size": 1488,
             "modifiedTime": 1548098159585,
@@ -342,9 +342,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\RestMock.cls-meta.xml",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestMock.cls-meta.xml",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\RestMock.cls-meta.xml",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestMock.cls-meta.xml",
             "isDirectory": false,
             "size": 186,
             "modifiedTime": 1548098154889,
@@ -357,9 +357,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\TestUtils.cls",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\TestUtils.cls",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\TestUtils.cls",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\force-app\\TestUtils.cls",
             "isDirectory": false,
             "size": 2072,
             "modifiedTime": 1548100136206,
@@ -372,9 +372,9 @@
         }
     ],
     [
-        "c:\\workspace\\sfdx\\codeTest\\force-app\\TestUtils.cls-meta.xml",
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\TestUtils.cls-meta.xml",
         {
-            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\TestUtils.cls-meta.xml",
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\TestUtils.cls-meta.xml",
             "isDirectory": false,
             "size": 187,
             "modifiedTime": 1548100131973,
