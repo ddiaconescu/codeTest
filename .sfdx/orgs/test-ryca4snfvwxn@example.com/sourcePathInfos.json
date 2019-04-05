@@ -1,0 +1,1127 @@
+[
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548250051219,
+            "changeTime": 1548250051219,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249992824,
+            "changeTime": 1548249992824,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554475200822,
+            "changeTime": 1554475200822,
+            "contentHash": "4e60094c3658f8d771dbf51c85efa26653cc75bd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548250051218,
+            "changeTime": 1548250051218,
+            "contentHash": "76b166c9654744757c7a0d9c798c018b22b929d5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\ContactRates.cls",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\ContactRates.cls",
+            "isDirectory": false,
+            "size": 3160,
+            "modifiedTime": 1548250051225,
+            "changeTime": 1548250051228,
+            "contentHash": "e8f23d4112dad7a8857d1dd1f3b155e220bf4506",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\ContactRates.cls-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\ContactRates.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1548250051224,
+            "changeTime": 1548250051228,
+            "contentHash": "cee6b2398cf8e78ee7fccffd2d79b87a773fcac2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCallout.cls",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCallout.cls",
+            "isDirectory": false,
+            "size": 2925,
+            "modifiedTime": 1548250051225,
+            "changeTime": 1548250051228,
+            "contentHash": "0cf422712916619d8b84f148f0aeaf05173ee07e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCallout.cls-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCallout.cls-meta.xml",
+            "isDirectory": false,
+            "size": 189,
+            "modifiedTime": 1548250051224,
+            "changeTime": 1548250051228,
+            "contentHash": "657745548a538806e3e96fd32596315599e16266",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCalloutTest.cls",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCalloutTest.cls",
+            "isDirectory": false,
+            "size": 6077,
+            "modifiedTime": 1548250051225,
+            "changeTime": 1548250051229,
+            "contentHash": "f5c7ea651f28ad18721f2a712c5e8813054f8b77",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCalloutTest.cls-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestCalloutTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1548250051225,
+            "changeTime": 1548250051228,
+            "contentHash": "b306ae90e42c2ae3e4816915028227092c1b7906",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClient.cls",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClient.cls",
+            "isDirectory": false,
+            "size": 13108,
+            "modifiedTime": 1548250051225,
+            "changeTime": 1548250051229,
+            "contentHash": "662c8c7da02bcd040ea51aca9363d1086a7f5ca7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClient.cls-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClient.cls-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1548250051225,
+            "changeTime": 1548250051229,
+            "contentHash": "00b18deab841af76bd7937861276b737606699b0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClientTest.cls",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClientTest.cls",
+            "isDirectory": false,
+            "size": 25489,
+            "modifiedTime": 1548250051226,
+            "changeTime": 1548250051230,
+            "contentHash": "503c4a9da5956059686f18aed2f8d4d187535c70",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClientTest.cls-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestClientTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1548250051226,
+            "changeTime": 1548250051230,
+            "contentHash": "c9e183482a2088e312332a664ca48d065bdb84fb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilder.cls",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilder.cls",
+            "isDirectory": false,
+            "size": 7838,
+            "modifiedTime": 1548250051227,
+            "changeTime": 1548250051231,
+            "contentHash": "668390adc290b812827928738bd316378741a6e0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilder.cls-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilder.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1548250051226,
+            "changeTime": 1548250051231,
+            "contentHash": "46c7f1c38e51f7f8bd38a7bdc04244486186890c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilderTest.cls",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilderTest.cls",
+            "isDirectory": false,
+            "size": 6677,
+            "modifiedTime": 1548250051226,
+            "changeTime": 1548250051230,
+            "contentHash": "03599045da114c765c639bd652795b2226814ffa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilderTest.cls-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestLogBuilderTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1548250051228,
+            "changeTime": 1548250051232,
+            "contentHash": "cc0c08bd2fd44171ca02eb1d117d4dab0fd6125a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestMock.cls",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestMock.cls",
+            "isDirectory": false,
+            "size": 1488,
+            "modifiedTime": 1548250051227,
+            "changeTime": 1548250051231,
+            "contentHash": "b946e2a2baba1e1abaaf6837f3786124b11e8bf5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestMock.cls-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestMock.cls-meta.xml",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1548250051227,
+            "changeTime": 1548250051231,
+            "contentHash": "a156ae1f9eab21e930840c084b47d74cb2d3267a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestResourceCreateAccount.cls",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestResourceCreateAccount.cls",
+            "isDirectory": false,
+            "size": 4778,
+            "modifiedTime": 1548250051328,
+            "changeTime": 1548250051328,
+            "contentHash": "ddacd044f96788c277546c24afde712987f2c617",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestResourceCreateAccount.cls-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\RestResourceCreateAccount.cls-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1548250051229,
+            "changeTime": 1548250051233,
+            "contentHash": "57c31ef3ebb869d6bbd391ad80f62a8f1f0e0315",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\TestUtils.cls",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\TestUtils.cls",
+            "isDirectory": false,
+            "size": 2072,
+            "modifiedTime": 1548250051228,
+            "changeTime": 1548250051233,
+            "contentHash": "b5f9d85c96a28f91d9c969c2de9f8f4858a7595d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\TestUtils.cls-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\classes\\TestUtils.cls-meta.xml",
+            "isDirectory": false,
+            "size": 187,
+            "modifiedTime": 1548250051328,
+            "changeTime": 1548250051328,
+            "contentHash": "141c5ee89ff6d61c8539cdc7466399b6c88a7015",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249992924,
+            "changeTime": 1548249992924,
+            "contentHash": "b27ede0293c6cce4a71549bda45239c7597636ad",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9639,
+            "modifiedTime": 1548249992857,
+            "changeTime": 1548249992857,
+            "contentHash": "22a2034b41f0c0d9cde6e892ea15a71fd371cd7e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9615,
+            "modifiedTime": 1548249992874,
+            "changeTime": 1548249992874,
+            "contentHash": "66cb42e4709c4c3e989ab5147cee0b4699a7176e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9324,
+            "modifiedTime": 1548249992907,
+            "changeTime": 1548249992907,
+            "contentHash": "8395e025123baca5f1a8aeb6a484f8b79bf720e1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9615,
+            "modifiedTime": 1548249992924,
+            "changeTime": 1548249992924,
+            "contentHash": "13a78d8fd71364e02e93b59edf04d29ce4ac749e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts\\Rest_Log__c-Rest Log Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\layouts\\Rest_Log__c-Rest Log Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3480,
+            "modifiedTime": 1548249992941,
+            "changeTime": 1548249992941,
+            "contentHash": "51a613183f99f79e7fce9276cf9ec7fdced7ab27",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\namedCredentials",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\namedCredentials",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249992956,
+            "changeTime": 1548249992956,
+            "contentHash": "a2020446b1c8718e284c06c69a6f6c2c1f5e499f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\namedCredentials\\currencyRates.namedCredential-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\namedCredentials\\currencyRates.namedCredential-meta.xml",
+            "isDirectory": false,
+            "size": 488,
+            "modifiedTime": 1548249992957,
+            "changeTime": 1548249992957,
+            "contentHash": "cab2efb6c239b1af84d2fe3bb6fe106bf3ad6443",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249993440,
+            "changeTime": 1548249993440,
+            "contentHash": "eca23e0419769364466a5b4b99a1667c190b2a44",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249992957,
+            "changeTime": 1548249992957,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249992957,
+            "changeTime": 1548249992957,
+            "contentHash": "f01961dc52eb58b74df73feb861985a441c276f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Contact\\fields\\Send_Rate_Alerts__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Contact\\fields\\Send_Rate_Alerts__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 344,
+            "modifiedTime": 1548249992991,
+            "changeTime": 1548249992991,
+            "contentHash": "6db9ed25cf4f312e67b746eb2559e1aac979a95c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249993007,
+            "changeTime": 1548249993007,
+            "contentHash": "8bb12d2571682ed980decb25ca98b08f4cfaf63b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249993172,
+            "changeTime": 1548249993172,
+            "contentHash": "c3244db90c129008abc6e7f3ba7067010bcb6cfe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Endpoint__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Endpoint__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 460,
+            "modifiedTime": 1548249993041,
+            "changeTime": 1548249993041,
+            "contentHash": "eff387d6ac5a3fb612a15ca1ce0f3eb8c677a425",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\End_Time__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\End_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 412,
+            "modifiedTime": 1548249993024,
+            "changeTime": 1548249993024,
+            "contentHash": "146a2fa8b60c97e14734bd7cc50dadc778b673b1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Error_Code__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Error_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1548249993057,
+            "changeTime": 1548249993057,
+            "contentHash": "84a3cececcb66510f8282169f168f221a4f26674",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Message__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Message__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 446,
+            "modifiedTime": 1548249993074,
+            "changeTime": 1548249993074,
+            "contentHash": "b63853b93b83dab2fbb5b13451b953b88b6dd076",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Method__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Method__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 455,
+            "modifiedTime": 1548249993090,
+            "changeTime": 1548249993090,
+            "contentHash": "6c7035471e5d71c9f85a24d09fab4719a1c85cfa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Request_Body__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Request_Body__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1548249993107,
+            "changeTime": 1548249993107,
+            "contentHash": "ff09b2f84cc3eef6a951b7f0e7a7242b67d6637f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Response_Body__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Response_Body__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 458,
+            "modifiedTime": 1548249993124,
+            "changeTime": 1548249993124,
+            "contentHash": "03e01e774913f2d55bcad3a67983c5d63a28d12e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Stack_Trace__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Stack_Trace__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 454,
+            "modifiedTime": 1548249993140,
+            "changeTime": 1548249993140,
+            "contentHash": "eac7652af53c75ca4573dd397fa5a6c08be301f2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Start_Time__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Start_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 416,
+            "modifiedTime": 1548249993172,
+            "changeTime": 1548249993172,
+            "contentHash": "0930ae83ea767801714e6e771ba941e939eb513b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Status__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 455,
+            "modifiedTime": 1548249993172,
+            "changeTime": 1548249993172,
+            "contentHash": "16b51aeeff9535e0a0756d334406f523f66494d8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\Rest_Log_Event__e.object-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log_Event__e\\Rest_Log_Event__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 287,
+            "modifiedTime": 1548249993007,
+            "changeTime": 1548249993007,
+            "contentHash": "3271bb89541abfb367201579d8c150172cd68c5d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249993424,
+            "changeTime": 1548249993424,
+            "contentHash": "3882f8809f3b27364908c6c9673d5d8b6e636726",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249993407,
+            "changeTime": 1548249993407,
+            "contentHash": "f0ea48631287d333cf3075525c185aec7ea6e6c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Duration__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Duration__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1548249993224,
+            "changeTime": 1548249993224,
+            "contentHash": "d3f6f0b9a08ad5d14aae09584d29e9e7397e804e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Endpoint__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Endpoint__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 362,
+            "modifiedTime": 1548249993257,
+            "changeTime": 1548249993257,
+            "contentHash": "c5f2162113e19b6fb77f79e0effa0b0487583704",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\End_Time__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\End_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1548249993241,
+            "changeTime": 1548249993241,
+            "contentHash": "84dcc9f171f7c9fea2a160c2150aeb0b49523dbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Error_Code__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Error_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1548249993274,
+            "changeTime": 1548249993274,
+            "contentHash": "51fc2294e4b1db9d9182b1da23b1d5e468da47f9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Message__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Message__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 348,
+            "modifiedTime": 1548249993291,
+            "changeTime": 1548249993291,
+            "contentHash": "bad7509f1aba06b4280b7fe6d962a5771fa42581",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Method__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Method__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1275,
+            "modifiedTime": 1548249993307,
+            "changeTime": 1548249993307,
+            "contentHash": "ad96a33544c668f94a2acdae4a1b9f830a686085",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Request_Body__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Request_Body__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 358,
+            "modifiedTime": 1548249993341,
+            "changeTime": 1548249993341,
+            "contentHash": "1ba508625ddc2c045c21d4dae4519cd0379ff486",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Response_Body__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Response_Body__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 360,
+            "modifiedTime": 1548249993357,
+            "changeTime": 1548249993357,
+            "contentHash": "24e3629e01f295ac6f75293730ccb179cd113580",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Stack_Trace__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Stack_Trace__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1548249993374,
+            "changeTime": 1548249993374,
+            "contentHash": "f8bb85a9f739b5b23455388494ff00ac7781c619",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Start_Time__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Start_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1548249993391,
+            "changeTime": 1548249993391,
+            "contentHash": "47e723a431cb1df55f358019db9678f120fd1893",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Status__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 805,
+            "modifiedTime": 1548249993424,
+            "changeTime": 1548249993424,
+            "contentHash": "f8c6869f83cd69a540a90c78537cb969bfae3296",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\listViews",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249993424,
+            "changeTime": 1548249993424,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1548249993440,
+            "changeTime": 1548249993440,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\Rest_Log__c.object-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\Rest_Log__c\\Rest_Log__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2125,
+            "modifiedTime": 1548249993203,
+            "changeTime": 1548249993203,
+            "contentHash": "978168f3c6f2859a116f1191aa0cdb2015b103af",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\x_api_key__c",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\x_api_key__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249993474,
+            "changeTime": 1548249993474,
+            "contentHash": "9033c8474afadd9cdac3eb74ab4cdaac766cd284",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\x_api_key__c\\fields",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\x_api_key__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249993456,
+            "changeTime": 1548249993456,
+            "contentHash": "bd2b37bf50825ba941b5200b1e892dd88deba74e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\x_api_key__c\\fields\\value__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\x_api_key__c\\fields\\value__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1548249993473,
+            "changeTime": 1548249993473,
+            "contentHash": "7fa73b21223145650a3579c91a19bb28ea65eddc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\x_api_key__c\\x_api_key__c.object-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\objects\\x_api_key__c\\x_api_key__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 270,
+            "modifiedTime": 1548249993489,
+            "changeTime": 1548249993489,
+            "contentHash": "6dffff2de7336a06fb00dff1a683b9845eac16e7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249993774,
+            "changeTime": 1548249993774,
+            "contentHash": "ac9a819e8e0f39b3c5491ab8a5690b3e127e34fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\tabs\\Rest_Log__c.tab-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\tabs\\Rest_Log__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1548249993791,
+            "changeTime": 1548249993791,
+            "contentHash": "75215d73ba88fdbc03728d0e663651a057b2b7a1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548249993839,
+            "changeTime": 1548249993839,
+            "contentHash": "394d107f337a2bc0396940986ff275bdda4443ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\triggers\\Rest_Log_Event.trigger",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\triggers\\Rest_Log_Event.trigger",
+            "isDirectory": false,
+            "size": 788,
+            "modifiedTime": 1548249993824,
+            "changeTime": 1548249993824,
+            "contentHash": "f375102c14d88cbc84a84c7576e2103b495eb771",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\triggers\\Rest_Log_Event.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest\\force-app\\main\\default\\triggers\\Rest_Log_Event.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1548249993857,
+            "changeTime": 1548249993857,
+            "contentHash": "e08bfdd17c90adb2e94498511a98bfbad8efcf16",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\workspace\\sfdx\\codeTest",
+        {
+            "sourcePath": "c:\\workspace\\sfdx\\codeTest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554472243101,
+            "changeTime": 1554472243101,
+            "contentHash": "e3cca9ee2b90e1763f6f5d6c9b2f68d04dfeda17",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
