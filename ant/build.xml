@@ -10,13 +10,13 @@
   <target name="deploy_run_tests">
     <mkdir dir="../runtest" />
     <copy file="package.xml" todir="../force-app/main/default/" overwrite="true" failonerror="true"/>
-    <sf:deploy username="${env.SFUSER}" password="${env.SFPASS}${env.SFTOKEN}" serverurl="${env.SFURL}" deployRoot="../src" runAllTests="true" maxPoll="10000"/>
+    <sf:deploy username="${env.SFUSER}" password="${env.SFPASS}${env.SFTOKEN}" serverurl="${env.SFURL}" deployRoot="../force-app/main/default" runAllTests="true" maxPoll="10000"/>
   </target>
 
   <target name="deploy_dont_run_tests">
     <antcall target="ExecutePreDeployApexSandbox"/>
     <copy file="package.xml" todir="../force-app/main/default/" overwrite="true" failonerror="true"/>
-    <sf:deploy username="${env.SFUSER}" password="${env.SFPASS}${env.SFTOKEN}" serverurl="${env.SF_SFURL}" deployRoot="../src" runAllTests="false" maxPoll="10000"/>
+    <sf:deploy username="${env.SFUSER}" password="${env.SFPASS}${env.SFTOKEN}" serverurl="${env.SF_SFURL}" deployRoot="../force-app/main/default" runAllTests="false" maxPoll="10000"/>
   </target>
 
 </project>
